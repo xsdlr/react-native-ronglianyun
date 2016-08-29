@@ -1,0 +1,24 @@
+{
+  "name": "react-native-ronglianyun",
+  "version": "0.0.1",
+  "description": "容联云SDK",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/xsdlr"
+  },
+  "keywords": [
+    "react-native"
+  ],
+  "author": "xsdlr",
+  "license": "MIT",
+  "dependencies": {
+    "base-64": "^0.1.0",
+    "blueimp-md5": "^2.3.0",
+    "lodash": "^4.15.0",
+    "moment": "^2.14.1"
+  }
+}
