@@ -1,6 +1,6 @@
 {
   "name": "react-native-ronglianyun",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "容联云SDK",
   "main": "index.js",
   "scripts": {
@@ -8,10 +8,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/xsdlr"
+    "url": "https://github.com/xsdlr/react-native-ronglianyun"
   },
   "keywords": [
-    "react-native"
+    "react-native",
+    "ronglianyun",
+    "容联云"
   ],
   "author": "xsdlr",
   "license": "MIT",
